@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [ROS 2](https://github.com/ros2/) and [micro-ROS](https://github.com/micro-ros/), especially [system modes](https://github.com/micro-ROS/system_modes)
-- 🌱 I’m currently learning about safety, robotics safety, and [ROS 2 safety](https://github.com/ros-safety/safety_working_group)
-- 👯 I’m looking to collaborate on the [Robotics DSL Zoo](https://github.com/corlab/dslzoo/) that I co-initiated some time back.
-
 Find me on twitter [@arnenordmann](https://twitter.com/arnenordmann), more about me at: https://arne-nordmann.de 📫
 <!--
 **norro/norro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
